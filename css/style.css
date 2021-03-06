@@ -3,6 +3,8 @@ body {
   margin: 0;
   padding: 0;
   zoom: 80%;
+  -webkit-transition: 0.4s ease-in-out all;
+  transition: 0.4s ease-in-out all;
 }
 
 body {
